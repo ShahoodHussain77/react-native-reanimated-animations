@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shahoodhussain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/android/app/.cxx/Debug/2no125y1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shahoodhussain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/android/app/.cxx/Debug/2no125y1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "artifactName": "react_codegen_rnreanimated",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/android/app/build/intermediates/cxx/Debug/2no125y1/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/712459f74e1b69cabe04723869743a98/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/ffea390e40bce9ede11ecb704e97298f/transformed/react-android-0.76.6-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/ffea390e40bce9ede11ecb704e97298f/transformed/react-android-0.76.6-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  }
+}
