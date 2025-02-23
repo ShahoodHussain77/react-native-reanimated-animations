@@ -1,1 +1,0 @@
-/Users/shahoodhussain/Documents/projects/react_native/infinite_loader/android/app/build/intermediates/cxx/Debug/2no125y1/obj/x86
